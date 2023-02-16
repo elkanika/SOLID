@@ -1,0 +1,15 @@
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\2-OpenClose\bin\Debug\net6.0\OpenClose.exe
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\2-OpenClose\bin\Debug\net6.0\OpenClose.deps.json
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\2-OpenClose\bin\Debug\net6.0\OpenClose.runtimeconfig.json
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\2-OpenClose\bin\Debug\net6.0\OpenClose.dll
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\2-OpenClose\bin\Debug\net6.0\OpenClose.pdb
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\2-OpenClose\obj\Debug\net6.0\OpenClose.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\2-OpenClose\obj\Debug\net6.0\OpenClose.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\2-OpenClose\obj\Debug\net6.0\OpenClose.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\2-OpenClose\obj\Debug\net6.0\OpenClose.AssemblyInfo.cs
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\2-OpenClose\obj\Debug\net6.0\OpenClose.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\2-OpenClose\obj\Debug\net6.0\OpenClose.dll
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\2-OpenClose\obj\Debug\net6.0\refint\OpenClose.dll
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\2-OpenClose\obj\Debug\net6.0\OpenClose.pdb
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\2-OpenClose\obj\Debug\net6.0\OpenClose.genruntimeconfig.cache
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\2-OpenClose\obj\Debug\net6.0\ref\OpenClose.dll

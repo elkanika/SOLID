@@ -1,0 +1,15 @@
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\4-InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.exe
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\4-InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.deps.json
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\4-InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.runtimeconfig.json
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\4-InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.dll
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\4-InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.pdb
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\4-InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\4-InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\4-InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\4-InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.AssemblyInfo.cs
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\4-InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\4-InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.dll
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\4-InterfaceSegregation\obj\Debug\net6.0\refint\InterfaceSegregation.dll
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\4-InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.pdb
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\4-InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.genruntimeconfig.cache
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\4-InterfaceSegregation\obj\Debug\net6.0\ref\InterfaceSegregation.dll

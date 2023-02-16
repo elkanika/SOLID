@@ -1,0 +1,15 @@
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\3-LiskovSubstitution\bin\Debug\net6.0\LiskovSubstitution.exe
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\3-LiskovSubstitution\bin\Debug\net6.0\LiskovSubstitution.deps.json
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\3-LiskovSubstitution\bin\Debug\net6.0\LiskovSubstitution.runtimeconfig.json
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\3-LiskovSubstitution\bin\Debug\net6.0\LiskovSubstitution.dll
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\3-LiskovSubstitution\bin\Debug\net6.0\LiskovSubstitution.pdb
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\3-LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\3-LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\3-LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\3-LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.AssemblyInfo.cs
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\3-LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\3-LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.dll
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\3-LiskovSubstitution\obj\Debug\net6.0\refint\LiskovSubstitution.dll
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\3-LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.pdb
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\3-LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.genruntimeconfig.cache
+D:\ProyectosProgramacion\C#\PrincipiosSOLID\curso-principios-solid-csharp-1-reponsabilidadunica\3-LiskovSubstitution\obj\Debug\net6.0\ref\LiskovSubstitution.dll
